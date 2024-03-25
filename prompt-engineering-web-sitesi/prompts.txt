@@ -1,0 +1,54 @@
+#prompt1
+User:Bir front-end web geliştiricisi olduğunu düşünmeni ve ona göre hareket etmeni istiyorum. Html-css-javascript kodlarını içeren ve bu kodları ayrı ayrı dosyalarda olacak şekilde bir web sitesini oluşturmanı istiyorum. Yapabilir misin?
+GPT:Evet, anladım. HTML, CSS ve JavaScript kodlarını içeren ve her biri ayrı dosyalarda bulunan bir web sitesi oluşturabilirim. Başlayalım mı?
+
+#prompt2
+User:Evet, şimdi web sitesinin ayrıntılarını veriyorum .Sitenin başlığı :"Sanatın İzinde Türkiye: Ressamın Gözünden Yeniden Keşfedilen Mekânlar" olacak ve bu sitede 5 farklı sanat akımı anlatılacak ve bu sanat akımlarının etkisiyle Türkiye'deki mekanlar yeniden resme dökülecek. Senden 5 farklı metin ve 5 farklı fotoğraf yeri ayarlayarak bu sitesinin kodlarını yazmanı rica ediyorum.Web sitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir.
+
+#prompt3
+User:Ressam olduğu ve Türkiye'deki tarihi  ve popüler yerleri sanat akımları ve öncülerinin etkileriyle yeniden oluşturduğunu düşününerek hareket etmeni istiyorum. 
+GPT:Tabii, bu hayali senaryoya dayalı olarak birkaç cümlelik bir tasvir oluşturabilirim:
+Sanatın büyüsüyle donatılmış bir düş dünyasında, bir ressam Türkiye'nin tarihi ve popüler yerlerini sanat akımlarının ve öncülerinin izinden giderek yeniden hayal ediyor. İstanbul'un tarihi yarımadasından Kapadokya'nın büyüleyici manzaralarına, Ege'nin masmavi kıyılarından Nemrut Dağı'nın gizemli heykellerine kadar, her köşe, farklı sanat akımlarının ve büyük ustaların izlerini taşıyor. Sürrealizmin derinliklerinden, post-empresyonizmin renk cümbüşüne, ressamın fırçasıyla her yapı, her manzara, ve her an, bir sanat eserine dönüşüyor, izleyicileri zamanda ve mekânda unutulmaz bir yolculuğa çıkarıyor.
+#prompt4
+User:unu başlık bölümünün altına açıklama yazısı olarak  ekler misin?
+
+#prompt5
+User:Çok güzel bir giriş yaptın. Şimdi de bu resimleri bir web sitesinde yayınlayacağını düşün ve ona göre etkileyici bir başlık oluşturmanı istiyorum.Yazabilir misin?
+GPT:Tabii, işte etkileyici bir başlık:
+"Sanatın İzinde Türkiye: Ressamın Gözünden Yeniden Keşfedilen Mekânlar"
+
+#prompt6
+User:Web sitesini iki bölüme bölmeni istiyorum.Sol tarafta sayfa içeriklerinin olduğu ve ayrıca bakınız bölümünün bulunduğu iki tablo olacak ve sağ tarafta ise başlık-metin-resim şeklinde içerik bölümü olacak.Bu şekilde  ayırabilir misin?
+
+#prompt7
+User:Resimlerin üzerine tıklayınca tam ekran yapar mısın?
+
+#prompt8
+User:linklere tıkladığımda sitedeki aynı isme sahip başlık ve metne gitmek istiyorum, bunu sağlayabilir misin?
+
+
+#metinler için
+#prompt9
+User:Sürrealizm,fütürizm,sembolizm,post-empresyonizm ve naturalizm akımlarını ayrı ayrı en fazla 50 kelime olacak şekilde açıklar mısın?
+GPT:
+"Sürrealizm, rasyonel mantığı reddedip bilinçaltının ve rüyaların dünyasına odaklanan bir sanat akımıdır. Gerçeküstü imgeler, rastlantısal kompozisyonlar ve mantıksız birleşimlerle gerçeklik sınırlarını zorlar. Salvador Dalí, René Magritte gibi sanatçılar, sürrealist hareketin öncüleri arasındadır. Akım, hayal gücünün özgürce ifadesini ve bilinçdışının keşfini vurgular."
+"Fütürizm, 20. yüzyılın başlarında İtalya'da doğmuş bir akımdır. Hız, teknoloji ve modernizm üzerine odaklanır. Kinetik enerjiyi, hareketi ve endüstriyel ilerlemeyi vurgular. Geleceğe yönelik umut dolu bir enerjiyi yansıtan dinamik ve keskin hatlara sahip resimlerle tanınır. Umberto Boccioni, Giacomo Balla gibi sanatçılar fütürist hareketin öncüleri arasındadır."
+"Sembolizm, 19. yüzyılın sonlarında ortaya çıkan bir akımdır. Gerçekliğin ötesindeki mistik ve sembolik anlamları vurgular. Simgeler, düşsel imgeler ve ruhsal arketiplerle dolu eserler üretilir. Sanatçılar, duygu, rüya ve mitolojiye odaklanır. Odilon Redon, Gustave Moreau gibi sanatçılar sembolizmin öncülerindendir. "
+"Post-empresyonizm, Empresyonizm'in renk ve ışık kullanımını genişleterek biçim ve duygu yoğunluğunu vurgulayan bir akımdır. Çizgisel yapının ön plana çıktığı bu akım, renklerin duygusal etkilerini vurgular. Van Gogh, Cézanne gibi sanatçılar, izlenimci dönemin ardından post-empresyonizmi şekillendiren öncülerdir. Sanatçılar, subjektif yorumlarına dayanarak doğayı yeniden şekillendirir."
+"Naturalizm, 19. yüzyılın ikinci yarısında doğmuş bir akımdır. Gerçekliği detaylı bir şekilde betimler, objektif gözlem ve bilimsel yaklaşımı benimser. Doğaüstü unsurlardan uzaklaşarak toplumsal gerçekliği yansıtır. Zola'nın edebiyat akımıyla bağlantılıdır. Gustave Courbet, Édouard Manet gibi sanatçılar naturalizmin öncüleridir."
+
+#resimler için
+#prompt1
+User: Naturalizm akımı etkisi  ve Monet'in tarzıyla Kapadokya'yı çizer misin?
+
+#prompt2
+User: Van Gogh tarzında İstanbul Boğazı'nı çizer misin?
+
+#prompt3
+User:Salvador Dali'den esinlenerek sürrealizm etkileriyle  Nemrut Dağı'nı çizer misin?
+
+#prompt4
+User:Sembolizm akımını kullanarak Efes Antik Kenti'ni resmeder misin?
+
+#prompt5
+User:Fütürizm akımını kullanarak Pamukkale'yi  çizer misin?

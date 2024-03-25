@@ -1,0 +1,125 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #e0eaf4; /* Arka plan rengi */
+
+  /* Diğer stil özellikleri buraya eklenmeli */
+}
+
+header {
+  background-color: #36699c;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.container {
+  display: flex;
+}
+
+nav {
+  flex: 1;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  margin-bottom: 10px;
+}
+
+nav ul li a {
+  display: block;
+  text-decoration: none;
+  color: #333;
+}
+
+nav ul li a:hover {
+  font-weight: bold;
+}
+nav {
+  flex: 1;
+  padding: 20px;
+}
+
+nav table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+nav th {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  text-align: left;
+}
+
+nav td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+nav td a {
+  text-decoration: none;
+  color: #333;
+  transition: color 0.3s;
+}
+
+nav td a:hover {
+  color: #007bff;
+  font-weight: bold;
+}
+
+main {
+  flex: 3;
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+section h2 {
+  color: #011123;
+}
+
+article {
+  display: flex;
+  flex-direction: column;
+}
+
+article img {
+  max-width: 50%;
+  height: auto;
+  margin-top: 20px;
+}
+
+footer {
+  background-color: #36699c; /* Footer arka plan rengi */
+  padding: 10px 20px;
+  text-align: center;
+  color: white; /* Footer metin rengi */
+}
+
+.fullscreen {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.fullscreen img {
+  display: block;
+  margin: auto;
+  max-width: 90%;
+  max-height: 90%;
+  object-fit: contain;
+  cursor: pointer;
+}
